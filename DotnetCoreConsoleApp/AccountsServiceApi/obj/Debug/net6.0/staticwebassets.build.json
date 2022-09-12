@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "17TQ/xbvQEfKOzYnsIfDT2hjlzmU/VspAD7lHGOOckM=",
+  "Source": "AccountsServiceApi",
+  "BasePath": "_content/AccountsServiceApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

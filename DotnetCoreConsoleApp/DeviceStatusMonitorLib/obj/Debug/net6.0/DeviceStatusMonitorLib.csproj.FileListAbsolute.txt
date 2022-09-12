@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\DotnetCoreConsoleApp\DeviceStatusMonitorLib\bin\Debug\net6.0\DeviceStatusMonitorLib.deps.json
+C:\Users\user\source\repos\DotnetCoreConsoleApp\DeviceStatusMonitorLib\bin\Debug\net6.0\DeviceStatusMonitorLib.dll
+C:\Users\user\source\repos\DotnetCoreConsoleApp\DeviceStatusMonitorLib\bin\Debug\net6.0\DeviceStatusMonitorLib.pdb
+C:\Users\user\source\repos\DotnetCoreConsoleApp\DeviceStatusMonitorLib\obj\Debug\net6.0\DeviceStatusMonitorLib.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DotnetCoreConsoleApp\DeviceStatusMonitorLib\obj\Debug\net6.0\DeviceStatusMonitorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DotnetCoreConsoleApp\DeviceStatusMonitorLib\obj\Debug\net6.0\DeviceStatusMonitorLib.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DotnetCoreConsoleApp\DeviceStatusMonitorLib\obj\Debug\net6.0\DeviceStatusMonitorLib.AssemblyInfo.cs
+C:\Users\user\source\repos\DotnetCoreConsoleApp\DeviceStatusMonitorLib\obj\Debug\net6.0\DeviceStatusMonitorLib.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DotnetCoreConsoleApp\DeviceStatusMonitorLib\obj\Debug\net6.0\DeviceStatusMonitorLib.dll
+C:\Users\user\source\repos\DotnetCoreConsoleApp\DeviceStatusMonitorLib\obj\Debug\net6.0\refint\DeviceStatusMonitorLib.dll
+C:\Users\user\source\repos\DotnetCoreConsoleApp\DeviceStatusMonitorLib\obj\Debug\net6.0\DeviceStatusMonitorLib.pdb
+C:\Users\user\source\repos\DotnetCoreConsoleApp\DeviceStatusMonitorLib\obj\Debug\net6.0\ref\DeviceStatusMonitorLib.dll

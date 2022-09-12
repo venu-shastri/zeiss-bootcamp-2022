@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CddAmStT1qsre3TN8W3sB3NomVXkAXYl4VC6wGsHi5A=",
+  "Source": "DeviceMonitoServiceApi",
+  "BasePath": "_content/DeviceMonitoServiceApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

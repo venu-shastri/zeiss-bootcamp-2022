@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetCoreConsoleApp", "DotnetCoreConsoleApp\DotnetCoreConsoleApp.csproj", "{39A858E3-A9A5-4671-9A86-F66452297140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAuthenticatorLib", "UserAuthenticatorLib\UserAuthenticatorLib.csproj", "{5252C3E9-CA25-4DB2-9895-87715190699E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceStatusMonitorLib", "DeviceStatusMonitorLib\DeviceStatusMonitorLib.csproj", "{134040C7-3DDB-48C4-BFF1-FFD29DA815E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceMonitoServiceApi", "DeviceMonitoServiceApi\DeviceMonitoServiceApi.csproj", "{4714A2BD-C84D-46EF-A589-0B71051E0D17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceMonitorServiceApiUsingController", "DeviceMonitorServiceApiUsingController\DeviceMonitorServiceApiUsingController.csproj", "{1F83082E-EA37-4A23-B9D5-0D8372BAFB64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountsServiceApi", "AccountsServiceApi\AccountsServiceApi.csproj", "{E3999FB0-FDF2-4BDC-8C21-4446A0C20FE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39A858E3-A9A5-4671-9A86-F66452297140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A858E3-A9A5-4671-9A86-F66452297140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A858E3-A9A5-4671-9A86-F66452297140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A858E3-A9A5-4671-9A86-F66452297140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5252C3E9-CA25-4DB2-9895-87715190699E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5252C3E9-CA25-4DB2-9895-87715190699E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5252C3E9-CA25-4DB2-9895-87715190699E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5252C3E9-CA25-4DB2-9895-87715190699E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{134040C7-3DDB-48C4-BFF1-FFD29DA815E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134040C7-3DDB-48C4-BFF1-FFD29DA815E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134040C7-3DDB-48C4-BFF1-FFD29DA815E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134040C7-3DDB-48C4-BFF1-FFD29DA815E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4714A2BD-C84D-46EF-A589-0B71051E0D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4714A2BD-C84D-46EF-A589-0B71051E0D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4714A2BD-C84D-46EF-A589-0B71051E0D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4714A2BD-C84D-46EF-A589-0B71051E0D17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F83082E-EA37-4A23-B9D5-0D8372BAFB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F83082E-EA37-4A23-B9D5-0D8372BAFB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F83082E-EA37-4A23-B9D5-0D8372BAFB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F83082E-EA37-4A23-B9D5-0D8372BAFB64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3999FB0-FDF2-4BDC-8C21-4446A0C20FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3999FB0-FDF2-4BDC-8C21-4446A0C20FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3999FB0-FDF2-4BDC-8C21-4446A0C20FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3999FB0-FDF2-4BDC-8C21-4446A0C20FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E656D78-7D22-42AA-83E1-F5FE5C1BCFCB}
+	EndGlobalSection
+EndGlobal

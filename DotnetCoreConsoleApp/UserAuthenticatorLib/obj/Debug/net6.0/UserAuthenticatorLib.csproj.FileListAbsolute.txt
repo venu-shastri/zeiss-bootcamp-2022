@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\DotnetCoreConsoleApp\UserAuthenticatorLib\bin\Debug\net6.0\UserAuthenticatorLib.deps.json
+C:\Users\user\source\repos\DotnetCoreConsoleApp\UserAuthenticatorLib\bin\Debug\net6.0\UserAuthenticatorLib.dll
+C:\Users\user\source\repos\DotnetCoreConsoleApp\UserAuthenticatorLib\bin\Debug\net6.0\UserAuthenticatorLib.pdb
+C:\Users\user\source\repos\DotnetCoreConsoleApp\UserAuthenticatorLib\obj\Debug\net6.0\UserAuthenticatorLib.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DotnetCoreConsoleApp\UserAuthenticatorLib\obj\Debug\net6.0\UserAuthenticatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DotnetCoreConsoleApp\UserAuthenticatorLib\obj\Debug\net6.0\UserAuthenticatorLib.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DotnetCoreConsoleApp\UserAuthenticatorLib\obj\Debug\net6.0\UserAuthenticatorLib.AssemblyInfo.cs
+C:\Users\user\source\repos\DotnetCoreConsoleApp\UserAuthenticatorLib\obj\Debug\net6.0\UserAuthenticatorLib.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DotnetCoreConsoleApp\UserAuthenticatorLib\obj\Debug\net6.0\UserAuthenticatorLib.dll
+C:\Users\user\source\repos\DotnetCoreConsoleApp\UserAuthenticatorLib\obj\Debug\net6.0\refint\UserAuthenticatorLib.dll
+C:\Users\user\source\repos\DotnetCoreConsoleApp\UserAuthenticatorLib\obj\Debug\net6.0\UserAuthenticatorLib.pdb
+C:\Users\user\source\repos\DotnetCoreConsoleApp\UserAuthenticatorLib\obj\Debug\net6.0\ref\UserAuthenticatorLib.dll
